@@ -1,0 +1,10 @@
+body,
+.app {
+    height: 100vh;
+    padding: 1em;
+    background: #eee;
+
+}
+.center {
+    margin:auto;
+}
